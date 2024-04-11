@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - MyBlog</title>
+        <link>https://blog.htp168.cn/categories/</link>
+        <description>Categories - Category - MyBlog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://blog.htp168.cn/categories/" rel="self" type="application/rss+xml" /></channel>
+</rss>
